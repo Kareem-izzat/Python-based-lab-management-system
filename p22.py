@@ -530,21 +530,5 @@ while True :
         record.update_record_test()
     elif choice == '4':
         update_medicalTest()
-    # elif choice == '5':
-    #     print("")
-    #     print("")
-    # elif choice == '6':
-    #     view_patient_tests(patients)
-    # elif choice == '7':
-    #     view_patient_tests(patients)
-    # elif choice == '8':
-    #     view_patient_tests(patients)
-    # elif choice == '9':
-    #     print("Exiting the Medical Test Management System. Goodbye!")
-    #     break
-    # else:
-    #     print("Invalid choice. Please choose a valid option.")
-
-
 
 
